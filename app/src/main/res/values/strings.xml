@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventBus Sample</string>
+    <string name="check_network_state">Checking Network State</string>
+</resources>
